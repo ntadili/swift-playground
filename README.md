@@ -13,7 +13,7 @@ Each project lives in its own folder with its own code and README.
 
 ## 📂 Projects
 
-- [BMI Calculator](Projects/BMI-Calculator/README.md)  
+- [BMI Calculator](BMI-Calculator/README.md)  
   A simple iOS app that calculates Body Mass Index (BMI) based on weight and height, then provides fun health feedback.  
   Built with **UIKit** and following the **MVC design pattern**.
 
