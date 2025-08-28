@@ -17,6 +17,10 @@ Each project lives in its own folder with its own code and README.
   A simple iOS app that calculates Body Mass Index (BMI) based on weight and height, then provides fun health feedback.  
   Built with **UIKit** and following the **MVC design pattern**.
 
+- [Tipsy](Tipsy/README.md)  
+  A bill-splitting app that lets you enter the total, choose a tip %, and select how many people to split between.  
+  Instantly shows how much each person should pay.
+
 ---
 
 ## 🌱 More to come
