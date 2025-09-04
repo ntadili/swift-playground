@@ -21,6 +21,11 @@ Each project lives in its own folder with its own code and README.
   A bill-splitting app that lets you enter the total, choose a tip %, and select how many people to split between.  
   Instantly shows how much each person should pay.
 
+- [Clima](Clima/README.md)  
+  A weather app that fetches live data from OpenWeatherMap API.  
+  Enter any city to see temperature, condition, and matching weather icon.  
+  Built with **UIKit**, **MVC**, and real-time API integration.
+
 ---
 
 ## 🌱 More to come
