@@ -26,6 +26,10 @@ Each project lives in its own folder with its own code and README.
   Enter any city to see temperature, condition, and matching weather icon.  
   Built with **UIKit**, **MVC**, and real-time API integration.
 
+- [Bitcoin Tracker](BitcoinTracker/README.md)  
+  A cryptocurrency price tracker that shows the current Bitcoin price in different currencies.  
+  Built with **UIKit**, **MVC**, and the **CoinAPI** service.
+
 ---
 
 ## 🌱 More to come
