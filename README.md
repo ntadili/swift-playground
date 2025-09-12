@@ -30,6 +30,11 @@ Each project lives in its own folder with its own code and README.
   A cryptocurrency price tracker that shows the current Bitcoin price in different currencies.  
   Built with **UIKit**, **MVC**, and the **CoinAPI** service.
 
+- [Dicee SwiftUI](Dicee-SwiftUI/README.md)  
+  A fun dice-rolling game recreated with **SwiftUI**.  
+  Press the button to roll two dice and see random results instantly.  
+  My **first SwiftUI project**, using `@State`, reusable components, and layout stacks.
+
 ---
 
 ## 🌱 More to come
